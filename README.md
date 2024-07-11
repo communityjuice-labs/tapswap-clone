@@ -20,21 +20,24 @@ Are you eager to launch your own TapSwap clone but want to avoid the high costs 
 - Advanced Referral System
 - Social Tasks for Community Growth
 - Supports multiple blockchain networks, including: Ethereum, BSC (BNB Chain), Solana, Polygon, and Telegram's native chain, The Open Network (TON). Custom chain on request.
-#### Additional options can be developed on request
+- <b>Additional options can be developed on request<b>
 
 ![Telegram Tap-to-Earn Sample Mockup](/images/3.jpg "Telegram Tap-to-Earn Game Mockup | GitHub")
 
 
 
 ## Pricing
+Our TapSwap Tap-to-Earn Game Clone is offered with three pricing tiers:
 
 [![CommunityJuice Special Offers](/images/5.jpg)](mailto:gm@communityjuice.xyz)
 
+Contact us to find out more about our pricing options and to discuss a custom package that meets your specific requirements.
 
 ## Contact Us
 
 Contact us, and we'll answer all your questions and explain your potential game in detail:
 
+- <a href="https://t.me/+E99QTmBlz1syMDM0" target="_blank">Telegram Channel</a>
 - [Our Email](mailto:gm@communityjuice.xyz)
 - <a href="https://communityjuice.xyz" target="_blank">Website</a>
 
@@ -54,7 +57,7 @@ Contact us, and we'll answer all your questions and explain your potential game 
 
 <details>
   <summary>What's the cost of the TapSwap Tap-to-Earn Game Clone?</summary>
-  <p>Our TapSwap Tap-to-Earn Game Clone is offered with three pricing tier:</p> 
+  <p>Our TapSwap Tap-to-Earn Game Clone is offered with three pricing tiers:</p> 
   <ul>
       <li>Tier 1 - We will use the same UI/UX Design and format as our whitelabel model but using your brand elements such as typography, logos, and colours. Free hosting, free maintenance</li>
       <li>Tier 2 - This tier involves a full design of the interface. If you have a custom game mechanics you want to implement, this would be the right option for you. This also comes with free hosting and free maintenance</li>
