@@ -20,7 +20,7 @@ Are you eager to launch your own TapSwap clone but want to avoid the high costs 
 - Advanced Referral System
 - Social Tasks for Community Growth
 - Supports multiple blockchain networks, including: Ethereum, BSC (BNB Chain), Solana, Polygon, and Telegram's native chain, The Open Network (TON). Custom chain on request.
-- <b>Additional options can be developed on request<b>
+- <b>Additional options can be developed on request</b>
 
 ![Telegram Tap-to-Earn Sample Mockup](/images/3.jpg "Telegram Tap-to-Earn Game Mockup | GitHub")
 
