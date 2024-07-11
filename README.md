@@ -1,7 +1,6 @@
+# Build and Launch Your Own TapSwap Telegram App with CommunityJuice
 
-# TapSwap Tap-to-Earn Game | Telegram Mini App
-
-### Launch Your TapSwap Clone with CommunityJuice
+### TapSwap Tap-to-Earn Game | Telegram Mini App
 
 Are you eager to launch your own TapSwap clone but want to avoid the high costs and time commitment of development and maintenance? Look no further! CommunityJuice is here to assist with your product implementation so you can concentrate on marketing and sales.
 
